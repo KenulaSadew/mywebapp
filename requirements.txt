@@ -1,4 +1,6 @@
 
 streamlit
-streamlit_lottie
+lottie
+pillow
+
 
